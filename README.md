@@ -6,6 +6,8 @@ requires python 3.11 or higher
 
 requires resemblyzer,scikit-learn,numpy,torch,tkinter,ffmpeg,ffprobe
 
+this script uses openai whisper models
+
 for supported languages check at https://github.com/openai/whisper
 
-cuda may not support on macos or nvidia gpu lacked pcs  or other  devices
+cuda may not supported on macos or nvidia gpu lacked pcs  or other  devices
